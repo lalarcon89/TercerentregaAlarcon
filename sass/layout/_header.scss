@@ -1,0 +1,20 @@
+header {
+    color: #ffffff;
+    padding: 1px 0;
+    text-align: center;
+}
+
+.header {
+    background-color: #1c62ad;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+#logo {
+    max-width:max-content; /* Ancho máximo del logo */
+    float: left; /* Posiciona el logo a la derecha */
+    max-height: 110px; /* Establece una altura máxima para el logo (ajusta según sea necesario) */
+    margin-left: 0px; /* Espacio entre el logo y el texto (ajusta según sea necesario) */
+}
